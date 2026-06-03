@@ -1,0 +1,29 @@
+body {background-color:#914791}
+
+#Logo {float:left;}
+#Icon {float:right;}
+#Content {clear:both;  border-top:Solid black 1px; padding: 20px 0px 20px; border-bottom:Solid black 1px;}
+
+#Content a {font-family:Arial; color:black; margin:10px 0px 0px 100px;}
+
+#Content a:hover {color:purple;}
+
+#Header {color:purple ; border-bottom:solid black 1px; font-family: Arial; }
+#Subheader p {color:black}
+#Subheader img {padding:5px 5px 5px 5px; border:solid black 2px}
+#Subheader img 
+#Subheader {float:left; width:600px}
+#Subheader {font-family: Arial; font-size: small;}
+#Subheader {border-top:Solid black 1px; padding: 20px 0px 20px; border-bottom:Solid black 1px;}
+
+
+
+#Footer {clear:both; text-align:center; border-top:solid black 1px}
+
+
+#KotakEpic {background-color: white; margin:0px auto 0px auto; width:1000px}
+#Kotak {background-color:white; margin:0px auto 0px auto; width: 900px;}
+
+#MoreKotak {clear:both; float:left; padding-top: 20px; background-color:gray; margin-right: 30px; width:250px}
+#MorerKotak {float:left; padding-top: 20px; background-color:gray ; margin-right: 30px; width:250px}
+#EvenMoreKotak {float:left; padding-top: 20px; background-color:gray ; margin: 0px auto 0px auto; width:250px}

@@ -1,0 +1,27 @@
+body {background-color:#914791}
+
+#Logo {float:left;}
+#Icon {float:right;}
+#Content {clear:both;  border-top:Solid black 1px; padding: 20px 0px 20px; border-bottom:Solid black 1px;}
+
+#Content a {font-family:Arial; color:black; margin:10px 0px 0px 100px;}
+
+#Content a:hover {color:purple;}
+
+#Header {color:purple ; border-bottom:solid black 1px; font-family: Arial; }
+#Subheader p {color:black}
+#Subheader img {padding:5px 5px 5px 5px; border:solid black 2px}
+#Subheader {float:left; width:600px}
+#Subheader {font-family: Arial; font-size: small;}
+#Subheader {border-top:Solid black 1px; padding: 20px 0px 20px;}
+#News {float:right; width: 250px; font-family: Arial;}
+
+#Footer {clear:both; text-align:center; border-top:solid black 1px}
+
+#News h1 {color:black}
+#News h3 {margin-top:-15px; margin-bottom:-15px; color:purple}
+#News h2 {margin: top -15px; margin-bottom:-10px; color:black}
+#News p {color:black}
+
+#KotakEpic {background-color: white; margin:0px auto 0px auto; width:1000px}
+#Kotak {background-color:white; margin:0px auto 0px auto; width: 900px;}
